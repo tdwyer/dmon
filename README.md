@@ -18,6 +18,6 @@ Start a program as a daemon
 Follow the log for the program
 
 
-  tail -f /tmp/dmon/log/offlineimap
+    tail -f /tmp/dmon/log/offlineimap
 
 
